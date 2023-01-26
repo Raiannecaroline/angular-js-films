@@ -6,7 +6,8 @@ Entendendo mais um pouco sobre o Angular JS
 
 ## Imagens do Projeto
 
-
+![Layout dos Filmes](https://github.com/Raiannecaroline/angular-js-films/blob/master/img/Angular-js.jpg)
+![Layout do Cadastro](https://github.com/Raiannecaroline/angular-js-films/blob/master/img/Angular-js.2.jpg)
 
 ## Sobre o Angular
 
